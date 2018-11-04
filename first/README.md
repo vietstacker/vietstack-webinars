@@ -1,3 +1,5 @@
+# WEBINAR 1
+
 ## CÁC THỨ CẦN CHUẨN BỊ
 
 * Laptop (để chạy được devstack mượt mà thì máy nên có từ 16GB RAM) và kết nối Internet ổn định.
