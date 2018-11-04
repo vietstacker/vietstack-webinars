@@ -1,6 +1,6 @@
 # Vietstack Upstream Training
 
-![VietStack Upstream Training](images/logo.png =250x)
+![VietStack Upstream Training](./images/logo.png =250x)
 
 Chuỗi chương trình hỗ trợ huấn luyện và phát triển cộng động của [Vietnam OpenStack User Group](https://www.facebook.com/groups/vietstack/).
 Chương trình được thực hiện dựa trên [OpenStack Upstream Institute](https://docs.openstack.org/upstream-training/).
