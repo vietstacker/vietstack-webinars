@@ -2,7 +2,7 @@
 
 ![alt text](https://raw.githubusercontent.com/dangtrinhnt/vietstack-webinars/master/images/logo.png "VietStack Upstream Training")
 
-Chuỗi chương trình hỗ trợ huấn luyện và phát triển cộng động của [Vietnam OpenStack User Group](https://www.facebook.com/groups/vietstack/).
+Chuỗi chương trình hỗ trợ huấn luyện và phát triển cộng đồng của [Vietnam OpenStack User Group](https://www.facebook.com/groups/vietstack/).
 Chương trình được thực hiện dựa trên [OpenStack Upstream Institute](https://docs.openstack.org/upstream-training/).
 
 ## Webinar #1:
