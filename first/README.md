@@ -25,3 +25,4 @@
   * Cài đặt git và thông điệp ghi vào commit của bạn
   * Cấu hình Gerrit
   * Sử dụng Gerrit để review code
+* Hỏi đáp có thưởng (sách về OpenStack)
