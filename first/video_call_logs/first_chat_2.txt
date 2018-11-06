@@ -1,0 +1,49 @@
+23:54:51	 From congto : +1
+23:54:51	 From Trinh Nguyen : +1 nhé
+23:54:53	 From Trinh Nguyen : :D
+23:54:54	 From Sa Pham : 1
+23:54:55	 From tiennv000 : +1
+23:54:55	 From hieulq : +2
+23:54:59	 From TranHuy : +1
+23:55:12	 From congto : dạ, chào bót @Híu
+23:57:21	 From congto : ae tắt bớt CAM giúp
+00:01:30	 From Sa Pham : ae tat micro di neu khong noi nhe 
+00:15:13	 From hieulq : https://storyboard.openstack.org/#!/project/openstack-dev/sandbox
+00:15:57	 From hieulq : https://review.openstack.org/#/q/project:openstack-dev/sandbox
+00:20:52	 From hieulq : https://review.openstack.org/#/q/project:openstack/nova-specs
+00:22:12	 From Trinh Nguyen : +1
+00:22:21	 From Sa Pham : thank bot'
+00:23:01	 From hieulq : https://review.openstack.org/#/c/141219/
+00:23:57	 From hieulq : https://wiki.openstack.org/wiki/OpenStack_SIGs
+00:25:23	 From hieulq : https://review.openstack.org/#/c/604500/
+00:26:52	 From Trinh Nguyen : Da ok anh
+00:26:59	 From Trinh Nguyen : :))
+00:27:58	 From Bá Nguyễn : Em muốn hỏi chút
+00:28:04	 From Trinh Nguyen : Ok
+00:28:07	 From Bá Nguyễn : Em muốn tiếp cận kiến trúc của 1 dự án
+00:28:12	 From Bá Nguyễn : thì nên tìm hiểu thế nào ?
+00:28:21	 From Bá Nguyễn : Mic của em ko nói được ạ :D
+00:28:21	 From Trinh Nguyen : Bạn Bá Nguyễn
+00:29:00	 From Bá Nguyễn : Em không nói mic được
+00:29:05	 From Trung : Meetup nay giờ có record ko vậy bạn
+00:29:07	 From Bá Nguyễn : Em dùng web zoom
+00:29:14	 From Sa Pham : co' record nhe'
+00:29:15	 From Trinh Nguyen : bạn vào dự án nào thì vào tài liệu của dự án đó thường sẽ có kiến trúc
+00:29:22	 From Bá Nguyễn : Em vẫn nghe được bình thường
+00:29:42	 From trungvan : hi các Anh :)
+00:29:50	 From Bá Nguyễn : Vâng em vẫn đang nghe
+00:30:05	 From Bá Nguyễn : Như em đang dùng các lib client của openstack
+00:30:27	 From tovin07 : python-novaclient
+00:30:35	 From Bá Nguyễn : Như nếu em muốn tìm hiểu thêm
+00:30:41	 From Bá Nguyễn : về session của keystone
+00:30:53	 From Sa Pham : python-keystoneclient 
+00:31:05	 From Bá Nguyễn : thì em sẽ vào keystone để đọc ạ? có tài liệu nào tổng quan nhất về nó ko anh?
+00:31:09	 From hieulq : https://docs.openstack.org/python-keystoneclient/latest/using-sessions.html
+00:31:33	 From congto : Cám ơn bót
+00:31:38	 From Bá Nguyễn : vâng anh :D
+00:32:10	 From Bá Nguyễn : Vậy các tài liệu đó em có thể tìm ở đâu ạ?
+00:32:19	 From hieulq : docs.openstack.org
+00:32:31	 From tovin07 : sắp hết giờ anh em nhé
+00:32:37	 From TanNT : cái gì docs không có thì cứ hỏi boss Hiếu. 
+00:32:40	 From tovin07 : Trình kết thúc nhé
+00:32:43	 From Bá Nguyễn : Vâng anh :D 

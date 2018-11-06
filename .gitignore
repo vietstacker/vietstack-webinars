@@ -102,3 +102,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+.DS_Store
+first/video_call_logs/.DS_Store
