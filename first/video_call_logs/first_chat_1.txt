@@ -1,0 +1,50 @@
+21:11:26	 From Sa Pham : khong nhe thay gi a oi
+21:11:35	 From Trinh Nguyen : Anh nghe thay em ma
+21:11:49	 From Sa Pham : em khong nghe thay anh 
+21:12:16	 From Sa Pham : co ai nghe thay a Trinh ko
+21:12:17	 From Trinh Nguyen : Hello mọi người nghe thấy mình nói ko ạ?
+21:12:34	 From Trinh Nguyen : +1
+21:12:35	 From Trieu Nguyen : +1
+21:12:46	 From TanNT : mute rồi à
+21:13:30	 From Sa Pham : minh khong nghe thay ai noi :D 
+21:13:46	 From haidv : +1
+21:13:48	 From Trinh Nguyen : Sa bị mute rồi
+21:13:56	 From haidv : Đang mute, các thánh cứ nói :))
+21:14:02	 From congto : +1
+21:14:02	 From Sa Pham : +1 
+21:14:32	 From congto : https://github.com/dangtrinhnt/vietstack-webinars tài liệu AD Trình up ở đây ạ.
+21:15:08	 From Thanh Ha : sao nghe thấy gì 
+21:15:12	 From quocbao : không nghe gì cả
+21:15:39	 From quocbao : à mọi người chọn Join with Audio nhé
+21:15:45	 From congto : +1 đã thấy
+21:15:45	 From Sa Pham : 1
+21:19:46	 From tovin07 : Đồng chí nào đang nghe thời sự thế ạ :))
+Tạm tắt mic đi được không ạ
+21:20:17	 From congto : trật tự Hà ơi
+21:20:24	 From congto : Hà + Tấn trật tự
+21:20:25	 From congto : chat đi
+21:22:33	 From ministry : em không nghe thấy tiếng gì :'( 
+21:22:59	 From hieulq : allow audio đi
+21:23:04	 From TanNT : luc join vào zoom thì có 1 popup hiện ra, nhấn vào đó để bật loa
+21:24:12	 From hieulq : ae tắt bớt camera đi cho đỡ giật
+21:24:18	 From hieulq : nhìn mặt Trình là đủ rồi
+21:24:18	 From congto : ok boss
+21:24:39	 From Sa Pham : stop video ak a 
+21:24:46	 From congto : nghiêm túc
+21:27:21	 From Thanh Ha : a e mute tiếng đi, toàn nghe tiếng bàn phím
+21:28:02	 From quocbao : bác nào chưa mute thế :3
+21:28:12	 From phuoc : ah bàn phím :)
+21:28:25	 From TanNT : admin mute giúp
+21:32:23	 From hieulq : Trình ơi còn mấy cái flow liên quan tới spec proposal và code implementation khi join development nữa
+21:32:37	 From Trinh Nguyen : da
+21:34:06	 From Trinh Nguyen : #openstack-searchlight
+21:41:13	 From Trinh Nguyen : https://review.openstack.org/#/q/status:open
+21:41:26	 From Trinh Nguyen : gerrit
+21:42:44	 From Sa Pham : tinh hinh la con 10p nua la bi endchat 
+21:42:56	 From Sa Pham : co gi call lai nhe 
+21:43:00	 From congto : Join lại hả AD
+21:43:00	 From Trinh Nguyen : ok
+21:43:02	 From congto : pl
+21:43:03	 From congto : ok
+21:50:23	 From tovin07 : Trình có thể để phần nghịch ngợm với openstack-dev/sanbox cho thoải thích https://docs.openstack.org/contributors/code-and-documentation/sandbox-house-rules.html
+21:51:26	 From congto : báo ae vào đâu?
