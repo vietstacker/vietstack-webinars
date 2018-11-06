@@ -26,3 +26,8 @@
   * Cấu hình Gerrit
   * Sử dụng Gerrit để review code
 * Hỏi đáp có thưởng (sách về OpenStack)
+
+## VIDEO BUỔI WEBINAR
+
+* Session 1: https://youtu.be/k3U7MjBNt-k
+* Session 2: https://youtu.be/nIkmIgTvfd4
