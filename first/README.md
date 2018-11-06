@@ -31,3 +31,7 @@
 
 * Session 1: https://youtu.be/k3U7MjBNt-k
 * Session 2: https://youtu.be/nIkmIgTvfd4
+
+## CHAT LOGS & AUDIOS
+
+Xem thư mục ./video_call_logs
