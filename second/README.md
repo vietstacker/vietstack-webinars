@@ -1,4 +1,4 @@
-# WEBINAR 1
+# WEBINAR 2
 
 ## CÁC THỨ CẦN CHUẨN BỊ TRƯỚC
 
@@ -8,29 +8,23 @@
   * Tạo một máy ảo chạy Ubuntu 16.04 với > 6GB RAM.
   * Ngoài ra bạn có thể xài máy ảo tạo trên các dịch vụ cloud như Digital Ocean, AWS, Microsoft Azuze v.v.
   * Kiểm tra xem bạn đã có kết nối SSH được với máy ảo đó từ laptop chưa.
+* Cài đặt project mà bạn muốn tìm hiểu bằng [devstack](https://docs.openstack.org/devstack/latest/).
+  VD, bạn muốn cài Searchlight bằng devstack xem link [này](https://github.com/openstack/searchlight/tree/master/devstack)
 
 ## NỘI DUNG
 
-* Cài đặt môi trường phát triển
-* Giới thiệu về cách OpenStack đang được vận hành
-  * Cách OpenStack được điều hành
-  * Chu kì release phiên bản mới của OpenStack
-  * Cách thức mà các team dự án OpenStack giao tiếp
-  * Cài đặt IRC
-  * Các sự kiện của OpenStack
-* Workflow và các công cụ cần thiết
-  * Thiết lập các tài khoản
-  * Sơ lược về quy trình đóng góp
-  * Cách theo dõi task
-  * Cài đặt git và thông điệp ghi vào commit của bạn
-  * Cấu hình Gerrit
-  * Sử dụng Gerrit để review code
-* Hỏi đáp có thưởng (sách về OpenStack)
+* Đọc log của các dự án trong OpenStack
+* Các phương pháp debug
+  * Trực tiếp
+  * Từ xa
+* Quy trình debug
+* Thực hành debug trên dự án mẫu OpenStack Searchlight
+* Hỏi đáp có thưởng
 
 ## VIDEO BUỔI WEBINAR
 
-* Session 1: https://youtu.be/k3U7MjBNt-k
-* Session 2: https://youtu.be/nIkmIgTvfd4
+* Session 1: <To be updated>
+* Session 2: <To be updated>
 
 ## CHAT LOGS & AUDIOS
 
