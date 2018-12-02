@@ -23,8 +23,8 @@
 
 ## VIDEO BUỔI WEBINAR
 
-* Session 1: <To be updated>
-* Session 2: <To be updated>
+* Session 1: To be updated...
+* Session 2: To be updated...
 
 ## CHAT LOGS & AUDIOS
 
