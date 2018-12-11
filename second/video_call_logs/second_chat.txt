@@ -1,0 +1,325 @@
+Trinh   21:13:54
+https://docs.openstack.org/contributors/code-and-documentation/sandbox-house-rules.html
+
+Trinh   21:14:32
+https://git.openstack.org/cgit/openstack-dev/sandbox
+
+CongTO  21:16:24
++1
+
+BoTran  21:16:25
++1
+
+DoDuy   21:16:30
++1
+
+CongTO  21:16:57
+Học ở buổi trước rồi
+
+CongTO  21:17:03
+nếu quên đọc lại nhé
+
+CongTO  21:17:10
+Hoặc hỏi anh Hiếu.
+
+Trinh   21:19:34
+devstack cài searchlight
+
+Trinh   21:20:52
+/etc/neutron/neutron.conf
+
+Trinh   21:23:44
+tail -n 200 -f /path/to/logfile
+
+Trinh   21:25:10
+1. local test
+
+Trinh   21:25:20
+2. zuul check tren geritte
+
+Trinh   21:26:51
+[testenvocs]
+
+Trinh   21:32:54
+https://review.openstack.org/#/c/622871/
+
+Trinh   21:33:22
+unit tests
+
+Trinh   21:33:27
+functional tests
+
+TanNT   21:42:16
+có record chưa nhỉ
+
+Trinh   21:45:05
+https://review.openstack.org/#/c/622871
+
+Trinh   21:45:57
+https://zuul.openstack.org/status
+
+Tovin   21:50:13
+Thực ra mình có thể vào xem ara report thì sẽ nhìn thấy vấn đề nhanh hơn do log nó ngắn hơn
+
+Tovin   21:50:15
+VD:
+http://logs.openstack.org/78/570078/10/check/neutron-grenade-multinode/303521d/ara-report/
+
+Trinh   21:54:18
+pycharm
+
+Trinh   21:54:56
+
+
+Sa Pham 21:55:03
+
+
+Trinh   21:55:12
+Sa hỏi gì ko?
+
+BoTran  21:55:15
+có cách nào để xem lời thực hiện gọi tới các hàm nào không ạ?
+
+CongTO  21:55:28
+Trình một ngày code mấy dòng mà thao tác nhanh thế?
+
+BoTran  21:55:53
+dạ vâng ạ
+
+CongTO  21:56:01
+Nói được thì nói Bộ ơi.
+
+Sa Pham 21:56:15
+bật mic lên em ơi @Bộ
+
+BoTran  21:56:31
+mic em hôm nay bị lỗi ạ
+
+BoTran  21:59:08
+em cảm ơn anh ạ!!!
+
+Nguyen Ba   22:00:28
+Phần tox và các test trong 1 project có sẵn, làm sao em có thể sử dụng chúng ạ? Trong trường hợp em muốn viết thêm các test?
+
+CongTO  22:00:47
+Xong trả lời câu 1 của anh nhé, hoặc ước lượng theo số giờ làm việc.
+
+Câu 2: Trước khi làm dev cho OpenStack, Trình tự đọc cái này hay cũng có mentor nào hướng dẫn.
+
+Trinh   22:01:10
+dạ
+
+CongTO  22:01:14
+Bá
+
+CongTO  22:01:37
+Bá em ơi
+
+CongTO  22:01:40
+Nguyễn Bá
+
+CongTO  22:01:50
+ok ok
+
+Trinh   22:05:57
+https://pypi.org/project/stestr/
+
+CongTO  22:07:21
+
+
+Trinh   22:07:55
+https://docs.openstack.org/contributors/code-and-documentation/index.html
+
+CongTO  22:08:11
+Cám ơn em
+
+BoTran  22:08:34
+em hết rồi ạ
+
+BoTran  22:08:36
+=))
+
+CongTO  22:08:50
+Bộ phấn đấu ra tết contribute nhé.
+
+CongTO  22:08:57
+Có gì anh ủng hộ cái tai nghe
+
+CongTO  22:08:59
+ko
+
+CongTO  22:09:01
+Sa nhé
+
+CongTO  22:09:08
+Bá core review portal
+
+Trinh   22:09:08
+
+
+CongTO  22:09:10
+bên anh
+
+CongTO  22:09:25
+Rất cám ơn Trình vừa chia sẻ các thông tin thực tế đó.
+
+CongTO  22:09:41
+Anh ko contribute 1 project
+
+CongTO  22:09:52
+Hihi
+
+CongTO  22:09:56
+Ae trao đổi rất thực tế
+
+Nguyen Ba   22:10:01
+Vậy nếu em muốn hiểu sâu về kiến trúc project. Thì em nên tiếp cận như thế nào ạ?
+
+CongTO  22:10:06
+Chỗ này Sa làm web conf về Sys
+
+CongTO  22:10:15
+ok, ae hỏi tiếp nhé. Anh hỏi đủ rồi.
+
+Nguyen Ba   22:11:24
+Như hiện tại em đang tìm hiểu về Oslo messaging, docs của họ viết hơi khó hiểu và ít ví dụ
+
+Trinh   22:12:37
+bài sau
+
+CongTO  22:13:10
+Làm thế chỉ ở Việt Nam thôi
+
+CongTO  22:13:15
+Hàn ko làm thế đâu
+
+Trinh   22:13:17
+ dạ
+
+CongTO  22:13:47
+Anh nghĩ nên làm project đó ngay từ đầu
+
+CongTO  22:13:51
+Theo anh.
+
+Trinh   22:14:09
+https://docs.openstack.org/searchlight/latest/
+
+Trinh   22:14:22
+https://docs.openstack.org/searchlight/latest/admin/architecture.html
+
+Trinh   22:15:23
+tacker
+
+CongTO  22:15:55
+Bí kíp để hiểu kiến trúc là: Đọc code, đọc code và đọc code.
+
+Còn bí kíp fix bug là: Đọc log , đọc log và đọc log.
+
+CongTO  22:15:59
+Anh chia sẻ ở trên
+
+Trinh   22:16:07
++2
+
+Sa Pham 22:16:15
+chờ a Công commit
+
+Sa Pham 22:16:27
+a Công join code cùng a Trình đê
+
+Trinh   22:16:34
+@tovin: +1
+
+BoTran  22:16:37
+anh Công code Python giỏi lắm.
+
+CongTO  22:16:38
++1
+
+Sa Pham 22:16:41
+hứa hẹn từ mấy năm trước rồi
+
+Trinh   22:16:42
+@anhCong: +2
+
+Trinh   22:17:10
+
+
+CongTO  22:17:11
+hợp lý, Vĩnh nói rất hợp lý vì một số docs cũ quá hoặc tìm ko thấy.
+
+CongTO  22:17:21
+Nên ae cố luyện cả python nhiều nhé.
+
+CongTO  22:17:41
+Bật teamview, nhờ anh Hiếu hoặc anh Sa đọc rồi dạy cách đọc.
+
+Trinh   22:17:43
+osprofiler anh Vĩnh boss
+
+CongTO  22:17:48
++1
+
+Trinh   22:17:49
+
+
+CongTO  22:17:58
+sớm cho Trình nghỉ
+
+CongTO  22:18:02
+muộn quá rồi.
+
+Trinh   22:18:04
+dạ
+
+Trinh   22:18:12
+ko sao ạ, ru vợ ngủ rồi
+
+Nguyen Ba   22:18:12
+Vâng, em cám ơn ạ
+
+Trinh   22:18:16
+thoải mái
+
+CongTO  22:18:20
+Cám ơn Trình và BQT
+
+Trinh   22:18:35
+Searchlight
+
+Sa Pham 22:18:51
+https://www.youtube.com/watch?v=aWj1jI-h_X8
+
+CongTO  22:19:07
+ok, xong rồi ae chào nhau nhé.
+
+Trinh   22:19:14
+18+ hả Sa?
+
+Nguyen Ba   22:19:24
+Dạ, em đang mò dở mấy phần  Nếu có cơ hội em sẽ tham gia ạ
+
+Sa Pham 22:19:33
+Bá vào code đi
+
+Trinh   22:19:36
++1 Bá
+
+CongTO  22:19:44
+hết rồi nhé
+
+CongTO  22:19:49
+Bye bye
+
+BoTran  22:19:51
+em chào các anh ạ
+
+CongTO  22:20:03
+uhm, cái này anh Hiếu bảo ko dùng
+
+CongTO  22:20:04
+haha
+
+Nguyen Ba   22:20:06
+

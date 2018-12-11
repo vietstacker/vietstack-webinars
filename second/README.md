@@ -23,8 +23,7 @@
 
 ## VIDEO BUỔI WEBINAR
 
-* Session 1: To be updated...
-* Session 2: To be updated...
+* Full session: https://youtu.be/rI2zPQYtX-g
 
 ## CHAT LOGS & AUDIOS
 
