@@ -12,7 +12,7 @@ Chương trình được thực hiện dựa trên [OpenStack Upstream Institute
   * Link Facebook Event: https://www.facebook.com/events/856683861171804/
   * Chủ đề: Storyboard and Launchpad
   * Người huấn luyện: [Kendall Nelson](https://twitter.com/knelson92), Upstream Developer Advocate for the OpenStack Foundation
-  * Host: Trinh Nguyen, OpenStack Searchlight PTL for Stein, VietOpenInfra, Organizer
+  * Host: [Trinh Nguyen](https://www.dangtrinh.com/), OpenStack Searchlight PTL for Stein
   * Học viên cần chuẩn bị: xem thư mục **third**
 
 ## Webinar #2:
