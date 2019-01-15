@@ -1,0 +1,45 @@
+21:25:20	 From Trinh Nguyen : For the second part, use this meeting link: https://zoom.us/j/806286880
+21:35:18	 From Trinh Nguyen : @diablo_rojo: space after new :)
+21:35:30	 From Trinh Nguyen : :D
+21:38:06	 From Trinh Nguyen : +1
+21:38:26	 From Sa Pham  : Could you compare blueprint  to specs?
+21:38:31	 From Trinh Nguyen : questions
+21:38:46	 From Trinh Nguyen : sa: +1
+21:42:58	 From tovin07 : @diablo_rojo: feel free with the time, we do not have to finish this webinar by 7:00 (in your time zone)
+21:43:14	 From Sa Pham  : yes. thank you for your answer
+21:43:31	 From Trinh Nguyen : +1
+21:43:58	 From tovin07 : yep, Trello and Kanban board
+21:49:10	 From Sa Pham  : A gift from Zoom :D 
+21:49:27	 From Trinh Nguyen : :D
+21:55:03	 From Sa Pham  : :D 
+21:55:21	 From Trinh Nguyen : Bug :)
+21:58:06	 From Trinh Nguyen : @diablo_rojo: That’s cool
+22:01:35	 From Daikk115 : Where can I see the milestone or sprint?
+22:04:02	 From Trinh Nguyen : Ok, guys, it’s a little bit early for @diablo_rojo so we’d better have like 3 questions. Please post it now if you can. Thanks.
+22:04:29	 From Sa Pham  : are you running test version of storyboard? =))
+22:04:57	 From Sa Pham  : Yes I see it now. :D 
+22:05:24	 From Trinh Nguyen : >> question from daikk115: “Where can I see the milestone or sprint?”
+22:06:49	 From Trinh Nguyen : Can we have dependencies for tasks?
+22:06:49	 From botran : i don't
+22:06:57	 From Trinh Nguyen : Like Launchpad
+22:07:06	 From Daikk115 : Ok, thanks. How easy to use this with inhouse project in my company?
+22:08:18	 From tovin07 : Do storyboard have something like “Karma” in launchpad? :D
+22:09:25	 From tovin07 : I see that we cannot edit comment in storyboard, is this a feature or a bug?
+22:10:22	 From Trinh Nguyen : +1
+22:10:32	 From thanhba : How can i delete my story broad in "storyboard.openstack.org"? I created in wrong site :D
+22:10:35	 From Trinh Nguyen : How about UAC
+22:10:36	 From Trinh Nguyen : ?
+22:11:29	 From Trinh Nguyen : User account control
+22:11:35	 From Trinh Nguyen : like in launchpad
+22:11:45	 From Trinh Nguyen : yes
+22:11:54	 From Trinh Nguyen : Like I want to approve stories…
+22:11:59	 From Trinh Nguyen : blueprint
+22:13:22	 From Trinh Nguyen : +1
+22:13:25	 From Trinh Nguyen : :)
+22:13:25	 From tovin07 : Can we assign a task to multiple people?
+22:14:15	 From tovin07 : +1
+22:14:57	 From diablo_rojo : knelson@openstack.org
+22:15:02	 From diablo_rojo : diablo_rojo on IRC
+22:15:21	 From thanhba : thanks you :D
+22:15:23	 From Trinh Nguyen : 10 hours
+22:15:36	 From botran : bye
